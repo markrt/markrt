@@ -1,29 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm writing a biography, to check it works.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: DPhil in Sociology
+    institution: Nuffield College, Oxford
+    year: 2013
+  - course: MSc in Sociology
+    institution: Nuffield College, Oxford
+    year: 2013
+  - course: BA in Philosophy, Politics and Economics
+    institution: Hertford College, Oxford
+    year: 2007
 email: ""
-first_name: Alice
+first_name: Mark
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Cool thing
+- Second cool thing
+- Third cool thing
+last_name: Taylor
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Sheffield
+  url: https://www.sheffield.ac.uk
+role: Senior Lecturer in Quantitative Methods
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +32,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/markrt
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=_JCouTwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/markrt
+- icon: instagram
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://instagram.com/markrt
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Mark Taylor
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mark Taylor is blah blah blah
 {style="text-align: justify;"}
